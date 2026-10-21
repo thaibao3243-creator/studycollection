@@ -1,0 +1,13 @@
+{
+  "grade": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chương 1: Phép Tính & Hình Học",
+      "lessons": [
+        { "lesson": 1, "title": "Bài 1: Làm quen với Hình Học Phẳng" },
+        { "lesson": 2, "title": "Bài 2: Phép cộng có nhớ" }
+      ]
+    }
+  ]
+}
