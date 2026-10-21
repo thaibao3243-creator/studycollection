@@ -3,10 +3,21 @@
   "chapters": [
     {
       "chapter": 1,
-      "title": "Chương 1: Phép Tính & Hình Học",
+      "title": "Khối Lớp 1 - Chương 1: Kiến thức nền tảng",
+      "has_mini_test": true,
       "lessons": [
         { "lesson": 1, "title": "Bài 1: Làm quen với Hình Học Phẳng" },
-        { "lesson": 2, "title": "Bài 2: Phép cộng có nhớ" }
+        { "lesson": 2, "title": "Bài 2: Phép toán biến đổi & Ứng dụng" },
+        { "lesson": 3, "title": "Bài 3: Phép cộng trong phạm vi 10" }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Khối Lớp 1 - Chương 2: Hình khối & Đo lường",
+      "has_mini_test": false,
+      "lessons": [
+        { "lesson": 1, "title": "Bài 1: Nhận biết Hình khối cơ bản" },
+        { "lesson": 2, "title": "Bài 2: Thực hành Đo độ dài" }
       ]
     }
   ]
