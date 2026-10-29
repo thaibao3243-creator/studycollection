@@ -1,0 +1,77 @@
+{
+  "grade": 1,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Chương 1: Các số từ 0 đến 10",
+      "has_mini_test": true,
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Bài 1: Đếm và nhận diện số từ 0 đến 10"
+        },
+        {
+          "lesson": 2,
+          "title": "Bài 2: Thứ tự dãy số và So sánh số lượng"
+        },
+        {
+          "lesson": 3,
+          "title": "Bài 3: Dấu so sánh và Tách - gộp số"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Chương 2: Làm quen với một số hình phẳng",
+      "has_mini_test": false,
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Bài 1: Nhận diện hình vuông, tròn, tam giác, chữ nhật"
+        },
+        {
+          "lesson": 2,
+          "title": "Bài 2: Thực hành xếp hình và Quy luật hình học"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Chương 3: Phép cộng, phép trừ trong phạm vi 10",
+      "has_mini_test": true,
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Bài 1: Phép cộng trong phạm vi 10"
+        },
+        {
+          "lesson": 2,
+          "title": "Bài 2: Tính chất giao hoán và Bảng cộng 10"
+        },
+        {
+          "lesson": 3,
+          "title": "Bài 3: Phép trừ trong phạm vi 10"
+        },
+        {
+          "lesson": 4,
+          "title": "Bài 4: Bảng trừ, dãy tính và So sánh phép tính"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Chương 4: Làm quen với hình khối & Vị trí không gian",
+      "has_mini_test": false,
+      "lessons": [
+        {
+          "lesson": 1,
+          "title": "Bài 1: Khối lập phương và Khối hộp chữ nhật"
+        },
+        {
+          "lesson": 2,
+          "title": "Bài 2: Định hướng không gian: Trước - Sau, Trái - Phải"
+        }
+      ]
+    }
+  ]
+}
